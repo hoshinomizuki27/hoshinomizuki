@@ -76,7 +76,7 @@ body{
 */
 
 .marquee-track img{
-    width: 400px;
+    width: 600px;
     aspect-ratio:16/9;
     object-fit:cover;
     transition: opacity 0.3s;

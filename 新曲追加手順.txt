@@ -1,0 +1,19 @@
+Imagesにジャケット追加
+
+discographyにカード追加
+
+songsにhtml追加
+
+htmlのタイトル変更→カード変更→URLをそれぞれ変更
+
+indexのLATEST RELEASEを変更
+
+imagesのmusic_panelにサムネを追加
+
+indexのサムネ幕lineの記述変更
+
+NEWSの新規html追加
+
+newsDataを更新
+
+github pagesで全体更新

@@ -1,5 +1,13 @@
 const newsData = [
 
+{
+    date: "2026.10.13",
+    title: "各種音楽配信サービスで「夕方バックエンド」がリリースされました!",
+    summary: "Apple Music、Spotify、LINE MUSICなどの各種音楽配信サービスで「夕方バックエンド」がリリースされました...",
+    url: "news/20261013.html"
+  },
+
+
   {
     date: "2026.09.19",
     title: "新曲 「夕方バックエンド」 がリリースされました",
